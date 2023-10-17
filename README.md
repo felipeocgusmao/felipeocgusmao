@@ -37,7 +37,5 @@
 
 ##
 
-![Snake animation](https://github.com/felipeocgusmao)
-
 <!--
 <div>

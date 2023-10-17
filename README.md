@@ -37,7 +37,7 @@
 
 ##
 
-![Snake animation](https://github.com/felipeocgusmao/felipeocgusmao/actions/runs/6552371086)
+![Snake animation](https://github.com/felipeocgusmao/felipeocgusmao/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 <div>

@@ -16,13 +16,6 @@
     <img alt="CSS" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" />
     <img alt="JavaScript" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" />
     <img alt="Git" height="40" src="https://xesque.rocketseat.dev/platform/tech/git.svg" />
-    <img alt="NodeJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/node.svg" />
-    <img alt="React" height="40" src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" />
-    <img alt="Python" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg" />
-    <img alt="PostgreSQL" height="40" src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg" />
-    <img alt="Typescript" height="40" src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" />
-    <img alt="NextJS" height="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg" />
-    <img alt="React Native" height="40" src="https://xesque.rocketseat.dev/platform/tech/react-native.svg" />
     <!-- icons from: https://www.rocketseat.com.br-->
   </div>  
 </div>

@@ -1,7 +1,7 @@
 ### Olá! Eu sou Felipe Gusmao
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando HTML, CSS e JS
+- 🌱 Estudando HTML, CSS, JS e Python
 - 😄 Pronouns: ele/dele
 
 <link rel="stylesheet" href="styles.css">

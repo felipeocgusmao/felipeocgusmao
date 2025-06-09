@@ -1,7 +1,7 @@
 ### Olá! Eu sou Felipe Gusmao
 
-- 🔭 Hoje trabalho com desenvolvimento web
-- 🌱 Estudando HTML, CSS e JS e Análise de Dados
+- 🔭 Hoje trabalho com Análise de Dados e desenvolvimento web
+- 🌱 Estudando HTML, CSS e JS
 - 😄 Pronouns: ele/dele
 
 <link rel="stylesheet" href="styles.css">

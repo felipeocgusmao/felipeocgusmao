@@ -15,6 +15,7 @@
     <img alt="HTML" height="40" src="https://xesque.rocketseat.dev/platform/tech/html5.svg" />
     <img alt="CSS" height="40" src="https://xesque.rocketseat.dev/platform/tech/css3.svg" />
     <img alt="JavaScript" height="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" />
+    <img alt="Python" height="40" src="https://xesque.rocketseat.dev/platform/tech/python.svg" />
     <!-- icons from: https://www.rocketseat.com.br-->
   </div>  
 </div>

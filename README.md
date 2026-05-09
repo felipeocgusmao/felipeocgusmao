@@ -50,8 +50,11 @@ felipe = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipeocgusmao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeocgusmao&layout=compact&langs_count=7&theme=github_dark&border_radius=10&hide_border=false" />
+![Profile Views](https://komarev.com/ghpvc/?username=felipeocgusmao&color=2f81f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=felipeocgusmao&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://github.com/felipeocgusmao)
+
+[![Felipe's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=felipeocgusmao&theme=github-compact&hide_border=false&radius=10)](https://github.com/felipeocgusmao)
 
 </div>
 

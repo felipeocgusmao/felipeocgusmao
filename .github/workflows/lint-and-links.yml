@@ -24,6 +24,8 @@ jobs:
 
       - name: Run lychee link checker
         uses: lycheeverse/lychee-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: >-
             --verbose
@@ -35,6 +37,7 @@ jobs:
             --exclude "demolab\.com"
             --exclude "vercel\.app"
             --exclude "komarev\.com"
+            --exclude "shields\.io"
             --accept 429,999,403
             --timeout 30
             --retry-wait-time 10

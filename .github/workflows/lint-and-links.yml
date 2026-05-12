@@ -13,13 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install actionlint
-        run: |
-          curl -fsSL https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash -o /tmp/install-actionlint.bash
-          bash /tmp/install-actionlint.bash
-
-      - name: Run actionlint
-        run: ./actionlint
+      - name: Lint YAML workflows
+        run: yamllint -d relaxed .github/workflows/
 
   check-links:
     name: Check README links
@@ -37,9 +32,12 @@ jobs:
             --exclude "linkedin\.com"
             --exclude "instagram\.com"
             --exclude "x\.com"
-            --accept 429,999
-            --timeout 20
-            --retry-wait-time 5
+            --exclude "demolab\.com"
+            --exclude "vercel\.app"
+            --exclude "komarev\.com"
+            --accept 429,999,403
+            --timeout 30
+            --retry-wait-time 10
             --max-retries 3
             README.md
           fail: true

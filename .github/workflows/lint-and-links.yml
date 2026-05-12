@@ -15,10 +15,11 @@ jobs:
 
       - name: Install actionlint
         run: |
-          bash <(curl https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+          curl -fsSL https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash -o /tmp/install-actionlint.bash
+          bash /tmp/install-actionlint.bash
 
       - name: Run actionlint
-        run: ./actionlint .github/workflows/*.yml
+        run: ./actionlint
 
   check-links:
     name: Check README links
@@ -27,7 +28,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run lychee link checker
-        uses: lycheeverse/lychee-action@v2.3.2
+        uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --verbose

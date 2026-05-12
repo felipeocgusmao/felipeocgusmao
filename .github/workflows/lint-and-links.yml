@@ -1,0 +1,47 @@
+name: Lint & Link Check
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  lint-yaml:
+    name: Lint YAML workflows
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lint YAML workflows
+        run: yamllint -d relaxed .github/workflows/
+
+  check-links:
+    name: Check README links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run lychee link checker
+        uses: lycheeverse/lychee-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --exclude-mail
+            --exclude "linkedin\.com"
+            --exclude "instagram\.com"
+            --exclude "x\.com"
+            --exclude "demolab\.com"
+            --exclude "vercel\.app"
+            --exclude "komarev\.com"
+            --exclude "shields\.io"
+            --exclude "github\.com/felipeocgusmao/"
+            --accept 429,999,403,404
+            --timeout 30
+            --retry-wait-time 10
+            --max-retries 3
+            README.md
+          fail: false

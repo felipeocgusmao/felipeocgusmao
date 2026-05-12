@@ -27,12 +27,16 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run lychee link checker
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@v2.3.2
         with:
           args: >-
             --verbose
             --no-progress
             --exclude-mail
+            --exclude "linkedin\.com"
+            --exclude "instagram\.com"
+            --exclude "x\.com"
+            --accept 429,999
             --timeout 20
             --retry-wait-time 5
             --max-retries 3

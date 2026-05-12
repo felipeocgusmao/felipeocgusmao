@@ -70,7 +70,7 @@ felipe = {
 |---|---|---|
 | [📊 Projeto](https://github.com/felipeocgusmao/Projeto) | Data analysis project with Jupyter Notebook | Python, Jupyter |
 | [🌐 Renovar Forever](https://github.com/felipeocgusmao/Renovar-Forever) | Professional web project with modern layout | HTML, CSS |
-| [💼 Portfolio](https://github.com/felipeocgusmao/felipeocgusmao.github.io.) | Personal portfolio built with Astro | Astro |
+| [💼 Portfolio](https://github.com/felipeocgusmao/felipeocgusmao.github.io) | Personal portfolio built with Astro | Astro |
 
 ---
 

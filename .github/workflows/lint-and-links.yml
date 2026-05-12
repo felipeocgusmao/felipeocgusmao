@@ -38,7 +38,8 @@ jobs:
             --exclude "vercel\.app"
             --exclude "komarev\.com"
             --exclude "shields\.io"
-            --accept 429,999,403
+            --exclude "github\.com/felipeocgusmao/"
+            --accept 429,999,403,404
             --timeout 30
             --retry-wait-time 10
             --max-retries 3

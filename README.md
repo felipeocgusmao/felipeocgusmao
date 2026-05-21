@@ -16,7 +16,7 @@
 
 ```python
 felipe = {
-    "name":     "Felipe Oliveira César Gusmão",
+    "name":     "Felipe Oliveira Cesar Gusmão",
     "role":     "Data Analyst & Web Developer",
     "company":  "DAC Industrial — Sabadell, Barcelona 🇪🇸",
     "origin":   "Brazil 🇧🇷",

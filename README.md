@@ -18,8 +18,7 @@
 felipe = {
     "name":     "Felipe Oliveira Cesar Gusmão",
     "role":     "Data Analyst & Web Developer",
-    "company":  "DAC Industrial — Sabadell, Barcelona 🇪🇸",
-    "origin":   "Brazil 🇧🇷",
+    "origin":   "Brazil 🇧🇷 → Barcelona 🇪🇸",
     "learning": ["Python", "SQL", "Power BI", "Machine Learning", "TypeScript"],
     "building": ["ponto-glass-next", "epi-monitor-app", "projeto-match-candidatos"],
     "goal":     "Become a solid Data Analyst with a strong dev background",
@@ -90,7 +89,6 @@ felipe = {
 
 ## 📍 Currently
 
-- 💼 Working at **DAC Industrial** (IT & Data area) in Sabadell, Barcelona
 - 🔨 Building **ponto-glass-next** — full-stack time tracking app with Next.js & TypeScript
 - 🤖 Automating workflows with **epi-monitor-app** — Python & Linear integrations
 - 📊 Deepening skills in **Data Analysis** — SQL, Power BI, Python, Machine Learning

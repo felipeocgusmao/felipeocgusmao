@@ -20,9 +20,9 @@ felipe = {
     "role":     "Data Analyst & Web Developer",
     "company":  "DAC Industrial — Sabadell, Barcelona 🇪🇸",
     "origin":   "Brazil 🇧🇷",
-    "learning": ["TypeScript", "Next.js", "Python", "Data Analysis"],
-    "building": ["ponto-glass-next", "epi-monitor", "sistema-empresarial"],
-    "goal":     "Grow as a Data Analyst & Full Stack Developer",
+    "learning": ["Python", "SQL", "Power BI", "Machine Learning", "TypeScript"],
+    "building": ["ponto-glass-next", "epi-monitor-app", "projeto-match-candidatos"],
+    "goal":     "Become a solid Data Analyst with a strong dev background",
     "hobbies":  ["Music 🎵", "Traveling ✈️", "Coding 💻"],
 }
 ```
@@ -72,22 +72,22 @@ felipe = {
 
 | Project | Description | Tech |
 |---|---|---|
-| [🕐 ponto-glass-next](https://github.com/felipeocgusmao/ponto-glass-next) | Time tracking app with glassmorphism UI — Next.js rewrite | TypeScript, Next.js |
-| [🏢 sistema-empresarial](https://github.com/felipeocgusmao/sistema-empresarial) | Business management system | TypeScript |
-| [🦺 epi-monitor](https://github.com/felipeocgusmao/epi-monitor) | Automation that monitors EPI stock and manages issues in Linear | Python |
-| [📊 projeto_1](https://github.com/felipeocgusmao/projeto_1) | Exploratory data analysis — Airbnb Barcelona | Python, Jupyter |
-| [🕐 ponto-glass](https://github.com/felipeocgusmao/ponto-glass) | Time tracking app — original version | Python |
-| [💼 meu-portfolio](https://github.com/felipeocgusmao/meu-portfolio) | Personal portfolio — fast & modern | Astro |
+| [🕐 ponto-glass-next](https://github.com/felipeocgusmao/ponto-glass-next) | Full-stack time tracking app for companies — live on Vercel | TypeScript, Next.js, Supabase |
+| [🦺 epi-monitor-app](https://github.com/felipeocgusmao/epi-monitor-app) | Automation that monitors EPI stock and manages issues in Linear | TypeScript, Next.js |
+| [🎯 projeto-match-candidatos](https://github.com/felipeocgusmao/projeto-match-candidatos) | HR Analytics ML model — predicting job change likelihood | Python, Machine Learning |
+| [📊 eda-airbnb-barcelona](https://github.com/felipeocgusmao/eda-airbnb-barcelona) | Exploratory data analysis & price prediction — Airbnb Barcelona | Python, Jupyter, Streamlit |
+| [💰 financial-control-analysis](https://github.com/felipeocgusmao/financial-control-analysis) | Financial control system with data visualization | Python, Jupyter |
+| [💼 meu-portfolio](https://github.com/felipeocgusmao/meu-portfolio) | Personal portfolio — fast & modern | Astro, Tailwind |
 
 ---
 
 ## 📍 Currently
 
 - 💼 Working at **DAC Industrial** (IT & Data area) in Sabadell, Barcelona
-- 🔨 Building **ponto-glass-next** — time tracking app with Next.js & TypeScript
-- 🤖 Automating workflows with **Python** (epi-monitor, Linear integrations)
-- 📊 Deepening skills in **Data Analysis** with real datasets
-- 🎯 Goal: become a solid **Full Stack Developer** with a strong Data background
+- 🔨 Building **ponto-glass-next** — full-stack time tracking app with Next.js & TypeScript
+- 🤖 Automating workflows with **epi-monitor-app** — Python & Linear integrations
+- 📊 Deepening skills in **Data Analysis** — SQL, Power BI, Python, Machine Learning
+- 🎯 Goal: become a solid **Data Analyst** with a strong development background
 
 ---
 

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Felipe+Gusmão+%F0%9F%91%8B;Data+Analyst+%7C+Web+Developer;Building+with+Next.js+%26+Python+%F0%9F%9A%80;Based+in+Sabadell%2C+Barcelona+%F0%9F%87%AA%F0%9F%87%B8;Always+learning+something+new+%F0%9F%93%9A)](https://github.com/felipeocgusmao)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Felipe+Gusmão+%F0%9F%91%8B;Data+Analyst+%7C+Web+Developer;Turning+data+into+insights+%F0%9F%93%8A;Based+in+Sabadell%2C+Barcelona+%F0%9F%87%AA%F0%9F%87%B8;Always+learning+something+new+%F0%9F%93%9A)](https://github.com/felipeocgusmao)
 
 </div>
 
@@ -36,18 +36,24 @@ felipe = {
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
+**Data & Analytics**
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Web & Tools**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -78,7 +84,6 @@ felipe = {
 | [🦺 epi-monitor-app](https://github.com/felipeocgusmao/epi-monitor-app) | Automation that monitors EPI stock and manages issues in Linear | TypeScript, Next.js |
 | [🎯 projeto-match-candidatos](https://github.com/felipeocgusmao/projeto-match-candidatos) | HR Analytics ML model — predicting job change likelihood | Python, Machine Learning |
 | [📊 eda-airbnb-barcelona](https://github.com/felipeocgusmao/eda-airbnb-barcelona) | Exploratory data analysis & price prediction — Airbnb Barcelona | Python, Jupyter, Streamlit |
-| [💰 financial-control-analysis](https://github.com/felipeocgusmao/financial-control-analysis) | Financial control system with data visualization | Python, Jupyter |
 | [💼 meu-portfolio](https://github.com/felipeocgusmao/meu-portfolio) | Personal portfolio — fast & modern | Astro, Tailwind |
 
 ---
@@ -99,8 +104,6 @@ felipe = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-cesar-gusmao-a8205019a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeocgusmao@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fee.gusmao/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/felipe_gus53521)
 
 </div>
 
